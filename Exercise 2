@@ -5,7 +5,7 @@
 
 
 getwd()
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/Users/Apurva Bhinda/Desktop/Term 4/AMMA/codes/data_2017")
 
 d1=read.table("student-mat.csv",sep=";",header=TRUE)
 d2=read.table("student-por.csv",sep=";",header=TRUE)
