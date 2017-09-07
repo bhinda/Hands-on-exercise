@@ -7,7 +7,7 @@
 library("xml2")
 library("rvest")
 getwd()
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/Users/Apurva Bhinda/Desktop/Term 4/AMMA/codes/data_2017")
 input_csv.df<-read.csv("DP_LIVE_02072017055613917.csv",header=T)
 class(input_csv.df)
 
