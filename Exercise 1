@@ -6,7 +6,7 @@
 
 getwd()
 
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/Users/Apurva Bhinda/Desktop/Term 4/AMMA/codes/data_2017")
 
 install.packages("data.table")
 install.packages("datasets")
